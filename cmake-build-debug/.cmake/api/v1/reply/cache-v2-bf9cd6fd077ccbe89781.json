@@ -1,0 +1,1903 @@
+{
+	"entries" : 
+	[
+		{
+			"name" : "CMAKE_ADDR2LINE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/addr2line"
+		},
+		{
+			"name" : "CMAKE_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ar"
+		},
+		{
+			"name" : "CMAKE_BUILD_TYPE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
+				}
+			],
+			"type" : "STRING",
+			"value" : "Debug"
+		},
+		{
+			"name" : "CMAKE_CACHEFILE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "This is the directory where this CMakeCache.txt was created"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/home/aadarshadhakalg/CLionProjects/screenshot/cmake-build-debug"
+		},
+		{
+			"name" : "CMAKE_CACHE_MAJOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Major version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "3"
+		},
+		{
+			"name" : "CMAKE_CACHE_MINOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Minor version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "25"
+		},
+		{
+			"name" : "CMAKE_CACHE_PATCH_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Patch version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "2"
+		},
+		{
+			"name" : "CMAKE_COLOR_DIAGNOSTICS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable colored diagnostics throughout."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
+			"name" : "CMAKE_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/var/lib/snapd/snap/clion/235/bin/cmake/linux/x64/bin/cmake"
+		},
+		{
+			"name" : "CMAKE_CPACK_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cpack program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/var/lib/snapd/snap/clion/235/bin/cmake/linux/x64/bin/cpack"
+		},
+		{
+			"name" : "CMAKE_CTEST_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to ctest program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/var/lib/snapd/snap/clion/235/bin/cmake/linux/x64/bin/ctest"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "CXX compiler"
+				}
+			],
+			"type" : "STRING",
+			"value" : "/usr/bin/c++"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gcc-ar"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gcc-ranlib"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "C compiler"
+				}
+			],
+			"type" : "STRING",
+			"value" : "/usr/bin/cc"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gcc-ar"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gcc-ranlib"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_DLLTOOL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_DLLTOOL-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/bin/ccmake"
+		},
+		{
+			"name" : "CMAKE_EXECUTABLE_FORMAT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Executable file format"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "ELF"
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXPORT_COMPILE_COMMANDS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable/Disable output of compile commands during generation."
+				}
+			],
+			"type" : "BOOL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXTRA_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of external makefile project generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_FIND_PACKAGE_REDIRECTS_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake."
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/aadarshadhakalg/CLionProjects/screenshot/cmake-build-debug/CMakeFiles/pkgRedirects"
+		},
+		{
+			"name" : "CMAKE_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "Ninja"
+		},
+		{
+			"name" : "CMAKE_GENERATOR_INSTANCE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Generator instance identifier."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_PLATFORM",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator platform."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_TOOLSET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator toolset."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_HOME_DIRECTORY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Source directory with the top level CMakeLists.txt file for this project"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/home/aadarshadhakalg/CLionProjects/screenshot"
+		},
+		{
+			"name" : "CMAKE_INSTALL_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Install path prefix, prepended onto install directories."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/local"
+		},
+		{
+			"name" : "CMAKE_INSTALL_SO_NO_EXE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Install .so files without execute permission."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "0"
+		},
+		{
+			"name" : "CMAKE_LINKER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ld"
+		},
+		{
+			"name" : "CMAKE_MAKE_PROGRAM",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "/var/lib/snapd/snap/clion/235/bin/ninja/linux/x64/ninja"
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_NM",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/nm"
+		},
+		{
+			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "number of local generators"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_OBJCOPY",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/objcopy"
+		},
+		{
+			"name" : "CMAKE_OBJDUMP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/objdump"
+		},
+		{
+			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Platform information initialized"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_PROJECT_DESCRIPTION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_HOMEPAGE_URL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "screenshot"
+		},
+		{
+			"name" : "CMAKE_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ranlib"
+		},
+		{
+			"name" : "CMAKE_READELF",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/readelf"
+		},
+		{
+			"name" : "CMAKE_ROOT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake installation."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/var/lib/snapd/snap/clion/235/bin/cmake/linux/x64/share/cmake-3.25"
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SKIP_INSTALL_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when installing shared libraries, but are added when building."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_SKIP_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when using shared libraries."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STRIP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/strip"
+		},
+		{
+			"name" : "CMAKE_UNAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "uname command"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/bin/uname"
+		},
+		{
+			"name" : "CMAKE_VERBOSE_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If this value is on, makefiles will be generated without the .SILENT directive, and all commands will be echoed to the console during the make.  This is useful for debugging only. With Visual Studio IDE projects all commands are done without /nologo."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "FALSE"
+		},
+		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding PkgConfig"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[/usr/bin/pkg-config][v1.8.0()]"
+		},
+		{
+			"name" : "GTK3_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/include/gtk-3.0;-I/usr/include/pango-1.0;-I/usr/include/glib-2.0;-I/usr/lib64/glib-2.0/include;-I/usr/include/sysprof-4;-I/usr/include/harfbuzz;-I/usr/include/freetype2;-I/usr/include/libpng16;-I/usr/include/libmount;-I/usr/include/blkid;-I/usr/include/fribidi;-I/usr/include/libxml2;-I/usr/include/cairo;-I/usr/include/pixman-1;-I/usr/include/gdk-pixbuf-2.0;-I/usr/include/gio-unix-2.0;-I/usr/include/cloudproviders;-I/usr/include/atk-1.0;-I/usr/include/at-spi2-atk/2.0;-I/usr/include/at-spi-2.0;-I/usr/include/dbus-1.0;-I/usr/lib64/dbus-1.0/include;-pthread"
+		},
+		{
+			"name" : "GTK3_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-pthread"
+		},
+		{
+			"name" : "GTK3_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GTK3_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/include"
+		},
+		{
+			"name" : "GTK3_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/include/gtk-3.0;/usr/include/pango-1.0;/usr/include/glib-2.0;/usr/lib64/glib-2.0/include;/usr/include/sysprof-4;/usr/include/harfbuzz;/usr/include/freetype2;/usr/include/libpng16;/usr/include/libmount;/usr/include/blkid;/usr/include/fribidi;/usr/include/libxml2;/usr/include/cairo;/usr/include/pixman-1;/usr/include/gdk-pixbuf-2.0;/usr/include/gio-unix-2.0;/usr/include/cloudproviders;/usr/include/atk-1.0;/usr/include/at-spi2-atk/2.0;/usr/include/at-spi-2.0;/usr/include/dbus-1.0;/usr/lib64/dbus-1.0/include"
+		},
+		{
+			"name" : "GTK3_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/lib64;-lgtk-3;-lgdk-3;-lz;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo-gobject;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0"
+		},
+		{
+			"name" : "GTK3_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/lib64"
+		},
+		{
+			"name" : "GTK3_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-3;gdk-3;z;pangocairo-1.0;pango-1.0;harfbuzz;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0"
+		},
+		{
+			"name" : "GTK3_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/lib64"
+		},
+		{
+			"name" : "GTK3_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk+-3.0"
+		},
+		{
+			"name" : "GTK3_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr"
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/include/gtk-3.0;-I/usr/include/pango-1.0;-I/usr/include/glib-2.0;-I/usr/lib64/glib-2.0/include;-I/usr/include/sysprof-4;-I/usr/include/harfbuzz;-I/usr/include/freetype2;-I/usr/include/libpng16;-I/usr/include/libmount;-I/usr/include/blkid;-I/usr/include/fribidi;-I/usr/include/libxml2;-I/usr/include/cairo;-I/usr/include/pixman-1;-I/usr/include/gdk-pixbuf-2.0;-I/usr/include/gio-unix-2.0;-I/usr/include/cloudproviders;-I/usr/include/atk-1.0;-I/usr/include/at-spi2-atk/2.0;-I/usr/include/at-spi-2.0;-I/usr/include/dbus-1.0;-I/usr/lib64/dbus-1.0/include;-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/include/gtk-3.0;/usr/include/pango-1.0;/usr/include/glib-2.0;/usr/lib64/glib-2.0/include;/usr/include/sysprof-4;/usr/include/harfbuzz;/usr/include/freetype2;/usr/include/libpng16;/usr/include/libmount;/usr/include/blkid;/usr/include/fribidi;/usr/include/libxml2;/usr/include/cairo;/usr/include/pixman-1;/usr/include/gdk-pixbuf-2.0;/usr/include/gio-unix-2.0;/usr/include/cloudproviders;/usr/include/atk-1.0;/usr/include/at-spi2-atk/2.0;/usr/include/at-spi-2.0;/usr/include/dbus-1.0;/usr/lib64/dbus-1.0/include"
+		},
+		{
+			"name" : "GTK3_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/lib64;-lgtk-3;-lgdk-3;-lz;-lm;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lpangocairo-1.0;-lm;-lpango-1.0;-lm;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lgobject-2.0;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lcairo;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-L/usr/lib64;-lm;-L/usr/lib64;-lm;-L/usr/lib64;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lfreetype;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-llzma;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lharfbuzz-gobject;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-L/usr/lib64;-lbrotlicommon;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lpng16;-lm;-lm;-lz;-L/usr/lib64;-lbrotlicommon;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lm;-lz;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-ljpeg;-lwebp;-lzstd;-ljbig;-lm;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-lgmodule-2.0;-pthread;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lcairo;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lcairo-gobject;-lm;-ldl;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lgobject-2.0;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-L/usr/lib64;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfontconfig;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXrandr;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXcursor;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXcomposite;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXdamage;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXinerama;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lwayland-client;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lepoxy;-ldl;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lcloudproviders;-latk-1.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lcairo-gobject;-lm;-ldl;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lpng16;-lm;-lm;-lz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lgdk_pixbuf-2.0;-lm;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lm;-lz;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-ljpeg;-ltiff;-lwebp;-lzstd;-ljbig;-ljpeg;-lm;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-lgmodule-2.0;-pthread;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lgio-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-L/usr/lib64;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lgobject-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-latk-bridge-2.0;-L/usr/lib64;-latspi;-L/usr/lib64;-lsystemd;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXtst;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXi;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXfixes;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-latk-1.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-ldbus-1;-lsystemd;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-Wl,--export-dynamic;-lgmodule-2.0;-pthread;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lwayland-client;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-lxkbcommon;-lwayland-cursor;-L/usr/lib64;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-lwayland-egl;-lwayland-client;-lm;-pthread;-lrt;-L/usr/lib64/../lib64;-lffi;-lepoxy;-ldl;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lGL;-lEGL;-lpangoft2-1.0;-lm;-lpango-1.0;-lm;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-L/usr/lib64;-ldatrie;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lm;-pthread;-lfreetype;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-llzma;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-L/usr/lib64;-lsepol;-lsysprof-capture-4;-pthread;-lfribidi;-lthai;-L/usr/lib64;-ldatrie;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-L/usr/lib64;-lbrotlicommon;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXft;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lcairo;-lm;-ldl;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lfontconfig;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-L/usr/lib64;-lxml2;-lz;-llzma;-lm;-L/usr/lib64;-L/usr/lib64;-lz;-lm;-lm;-lz;-lm;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64;-lbrotlicommon;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXext;-L/usr/lib64;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lXrender;-lX11;-lpthread;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-L/usr/lib64;-lX11;-lpthread;-L/usr/lib64;-L/usr/lib64;-lXau;-lxcb;-L/usr/lib64;-lXau;-lxcb-render;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lxcb-shm;-L/usr/lib64;-lxcb;-L/usr/lib64;-lXau;-lpixman-1;-lm;-pthread;-lharfbuzz-gobject;-lharfbuzz;-lm;-L/usr/lib64;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lfreetype;-L/usr/lib64;-L/usr/lib64;-lz;-lbz2;-lpng16;-lm;-lm;-lbrotlidec;-L/usr/lib64;-lbrotlicommon;-lgraphite2;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-lgio-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-lgobject-2.0;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lsysprof-capture-4;-pthread;-lpcre2-8;-L/usr/lib64/../lib64;-lffi;-L/usr/lib64;-lgmodule-2.0;-pthread;-L/usr/lib64;-lglib-2.0;-lm;-pthread;-L/usr/lib64;-lpcre2-8;-lz;-lmount;-L/usr/lib64;-lblkid;-L/usr/lib64;-lsepol;-lselinux;-L/usr/lib64;-lsepol;-lpcre2-8;-lsysprof-capture-4;-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-Wl,--export-dynamic;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread;-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-3;gdk-3;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;brotlicommon;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;pangocairo-1.0;m;pango-1.0;m;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;brotlicommon;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;gobject-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;cairo;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;m;m;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;brotlicommon;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;freetype;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;lzma;m;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;z;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;harfbuzz-gobject;m;m;sysprof-capture-4;pcre2-8;z;m;m;brotlicommon;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;z;brotlicommon;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;m;sysprof-capture-4;pcre2-8;z;png16;m;m;z;brotlicommon;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;m;m;sysprof-capture-4;pcre2-8;ffi;m;z;m;z;jpeg;webp;zstd;jbig;m;m;sysprof-capture-4;gmodule-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;cairo;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;cairo-gobject;m;dl;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;glib-2.0;m;sysprof-capture-4;pcre2-8;gobject-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fontconfig;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xrandr;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xcursor;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xcomposite;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xdamage;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xinerama;X11;pthread;xcb;Xau;pthread;xcb;Xau;wayland-client;m;rt;ffi;m;rt;ffi;m;rt;ffi;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;X11;pthread;xcb;Xau;pthread;xcb;Xau;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;epoxy;dl;pthread;xcb;Xau;cloudproviders;atk-1.0;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;cairo-gobject;m;dl;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;glib-2.0;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;png16;m;m;z;m;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;gdk_pixbuf-2.0;m;m;sysprof-capture-4;pcre2-8;ffi;m;z;m;z;jpeg;tiff;webp;zstd;jbig;jpeg;m;m;sysprof-capture-4;gmodule-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;m;pcre2-8;blkid;sepol;sepol;sysprof-capture-4;gio-2.0;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;m;sysprof-capture-4;pcre2-8;gobject-2.0;m;sysprof-capture-4;pcre2-8;ffi;atk-bridge-2.0;atspi;systemd;glib-2.0;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;X11;pthread;xcb;Xau;Xtst;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xi;X11;pthread;xcb;Xau;X11;pthread;xcb;Xau;Xfixes;X11;pthread;xcb;Xau;atk-1.0;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;dbus-1;systemd;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;gmodule-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;wayland-client;m;rt;ffi;xkbcommon;wayland-cursor;m;rt;ffi;wayland-egl;wayland-client;m;rt;ffi;epoxy;dl;pthread;xcb;Xau;GL;EGL;pangoft2-1.0;m;pango-1.0;m;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;brotlicommon;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;datrie;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;m;dl;z;m;m;z;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;pthread;xcb;Xau;X11;pthread;xcb;Xau;pthread;Xau;xcb;Xau;xcb;Xau;xcb;Xau;m;freetype;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;lzma;m;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;blkid;sepol;sepol;sysprof-capture-4;fribidi;thai;datrie;m;glib-2.0;m;sysprof-capture-4;pcre2-8;z;m;m;z;brotlicommon;Xrender;X11;pthread;xcb;Xau;pthread;xcb;Xau;Xft;X11;pthread;xcb;Xau;pthread;xcb;Xau;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;cairo;m;dl;z;m;m;z;fontconfig;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;xml2;z;lzma;m;z;m;m;z;m;glib-2.0;m;sysprof-capture-4;pcre2-8;brotlicommon;X11;pthread;xcb;Xau;Xext;pthread;xcb;Xau;Xrender;X11;pthread;xcb;Xau;X11;pthread;Xau;xcb;Xau;xcb-render;xcb;Xau;xcb-shm;xcb;Xau;pixman-1;m;harfbuzz-gobject;harfbuzz;m;m;sysprof-capture-4;pcre2-8;freetype;z;bz2;png16;m;m;brotlidec;brotlicommon;graphite2;m;sysprof-capture-4;pcre2-8;ffi;m;sysprof-capture-4;pcre2-8;m;sysprof-capture-4;pcre2-8;ffi;gio-2.0;m;sysprof-capture-4;pcre2-8;gobject-2.0;glib-2.0;m;sysprof-capture-4;pcre2-8;ffi;gmodule-2.0;glib-2.0;m;pcre2-8;z;mount;blkid;sepol;selinux;sepol;pcre2-8;sysprof-capture-4"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64/../lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64;/usr/lib64"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "3.24.37"
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "PKG_CONFIG_ARGN",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Arguments to supply to pkg-config"
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "PKG_CONFIG_EXECUTABLE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "pkg-config executable"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/pkg-config"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "__pkg_config_arguments_GTK3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gtk+-3.0"
+		},
+		{
+			"name" : "__pkg_config_checked_GTK3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_atk-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libatk-1.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_cairo",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libcairo.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_cairo-gobject",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libcairo-gobject.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gdk-3",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libgdk-3.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gdk_pixbuf-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libgdk_pixbuf-2.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gio-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libgio-2.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libglib-2.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libgobject-2.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gtk-3",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libgtk-3.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_harfbuzz",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libharfbuzz.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_pango-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libpango-1.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_pangocairo-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libpangocairo-1.0.so"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_z",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib64/libz.so"
+		},
+		{
+			"name" : "prefix_result",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/lib64"
+		},
+		{
+			"name" : "screenshot_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/aadarshadhakalg/CLionProjects/screenshot/cmake-build-debug"
+		},
+		{
+			"name" : "screenshot_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "screenshot_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/aadarshadhakalg/CLionProjects/screenshot"
+		}
+	],
+	"kind" : "cache",
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
